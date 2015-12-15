@@ -1,1 +1,1 @@
-# xaris
+# SnapChatApps
